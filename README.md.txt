@@ -1,1 +1,0 @@
-Jogo do número secreto feito somente com alerts e prompts
